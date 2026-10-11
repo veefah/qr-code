@@ -1,13 +1,9 @@
+![Screenshot](./img/Screenshot.png)
 QR Code Component
 
 This is my solution to the [QR Code Component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) from Frontend Mentor.
 ## Overview
 The challenge was to build a QR code component and make it look as close as possible to the provided design.
-
-## Screenshot
-
-![Screenshot](./img/Screenshot.png)
-
 ## Built with
 - HTML5
 - CSS3
