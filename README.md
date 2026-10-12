@@ -9,9 +9,11 @@ The challenge was to build a QR code component and make it look as close as poss
 - CSS3
 - Flexbox
 - Google Fonts (Outfit)
+  
 ##Link
 Live site URL : https://veefah.github.io/qr-code/
 Frontend Mentor : https://www.frontendmentor.io/profile/veefah
+
 ## What I learned
 Through this project, I practiced:
 - Structuring a webpage with HTML
